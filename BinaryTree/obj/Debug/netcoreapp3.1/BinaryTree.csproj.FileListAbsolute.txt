@@ -1,0 +1,11 @@
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\bin\Debug\netcoreapp3.1\BinaryTree.exe
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\bin\Debug\netcoreapp3.1\BinaryTree.deps.json
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.json
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.dev.json
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\bin\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\obj\Debug\netcoreapp3.1\BinaryTree.csprojAssemblyReference.cache
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfo.cs
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\roomey\Desktop\c#\Epam_2\AnotherTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
